@@ -30,7 +30,7 @@ All protected areas of the frontend validate the token before rendering content.
 Installation and Setup: 
 
 Clone the Repository
-git clone https://github.com/k1yotakka/zerotrust.git
+git clone https://github.com/k1yotakka/zero-trust.git
 cd zerotrust
 
 -----------------------------------------
